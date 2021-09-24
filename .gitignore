@@ -1,6 +1,7 @@
 .env
 .vscode
 env
+trash
 project/__pycache__
 datacenter/__pycache__
 datacenter/services/__pycache__
